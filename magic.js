@@ -1,0 +1,1 @@
+const 진동벨 = Promise
